@@ -14,13 +14,15 @@
 
 **Principais ferramentas:**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div style="display: inline_block">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/GuilhermeCruvinel96/Ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/GuilhermeCruvinel96/Ferramentas/blob/main/logo.png?raw=true">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/GuilhermeCruvinel96/Ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
+</div> <br>
 
 **Onde me encontrar:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cruvinel-605633405/)
+<a href="https://www.linkedin.com/in/guilherme-cruvinel-605633405/"><img align="center" alt="LinkedIn" height="45" width="45" src="https://github.com/GuilhermeCruvinel96/Ferramentas/blob/main/linkedin.png?raw=true"></a>
 
 ---
 
@@ -34,8 +36,7 @@ Análise sobre a estrutura de geração de receita da Contoso entre 2007 e 2009.
 
 A investigação identificou um cluster de categorias com alta exposição à substituição tecnológica como principal driver da contração — responsável sozinho por -1,0 Bi no período, enquanto o restante do portfólio cresceu +0,2 Bi.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<img align="center" alt="Power BI" height="40" width="40" src="https://github.com/GuilhermeCruvinel96/Ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 
 [🔗 Acesse o relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmJiMmQ4ZDgtMGY1Mi00OTFhLTk4OGUtNjBmYTZhOWYzZjU1IiwidCI6IjhhMzUxMjYzLWRkYmItNGFjMi1hMWZiLWIxYzJhZWY0ZTg5YiJ9)
 &nbsp;&nbsp;
