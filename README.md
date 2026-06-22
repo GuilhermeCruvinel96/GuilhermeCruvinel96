@@ -32,9 +32,9 @@
 
 <img src="assets/Capa_Contoso.png" alt="Capa do projeto Contoso" width="420" align="right">
 
-Análise sobre a estrutura de geração de receita da Contoso entre 2007 e 2009. A receita caía de forma consistente ao longo do período — mas a margem permanecia intacta. O problema não estava na operação, estava na composição do portfólio.
+A receita da Contoso caía de forma consistente entre 2007 e 2009, mas a margem permanecia intacta. O problema não estava na operação, estava na composição do portfólio.
 
-A investigação identificou um cluster de categorias com alta exposição à substituição tecnológica como principal driver da contração — responsável sozinho por -1,0 Bi no período, enquanto o restante do portfólio cresceu +0,2 Bi.
+A investigação identificou um cluster de categorias com alta exposição à substituição tecnológica como principal driver da contração. Sendo responsável sozinho por -1,0 Bi no período, enquanto o restante do portfólio cresceu +0,2 Bi.
 
 O relatório está estruturado em duas páginas: a primeira apresenta a visão executiva da contração; a segunda aprofunda a origem do problema e o risco estrutural do portfólio.
 
@@ -52,11 +52,11 @@ O relatório está estruturado em duas páginas: a primeira apresenta a visão e
 
 <img src="assets/Capa_AdventureWorks.png" alt="Capa do projeto Adventure Works" width="420" align="right">
 
-Análise comparando os canais Internet e Revendedores da Adventure Works entre 2011 e 2013. O negócio crescia em receita e volume, mas um número não fechava a conta: o ticket médio despencava. Algo sustentava esse crescimento — e não era valor.
+Os dados de vendas da Adventure Works entre 2011 e 2013 apresentavam um crescimento aparente: receita dobrada, volume quintuplicado, mas um número não fechava a conta. O ticket médio despencou 61% no período. O que sustentava esse crescimento não era valor. E sim, volume.
 
-A investigação revelou uma discrepância expressiva de margem entre os canais. Revendedores concentrava a maior parte da receita, mas operava com margem quase nula. Internet, com muito menos receita, sustentava praticamente toda a margem bruta da empresa. O canal de venda era o fator determinante — e a categoria de Bikes estava no centro do problema.
+O canal de venda era o fator determinante. Revendedores concentrava a maior parte da receita, mas operava com margem quase nula. Internet, com muito menos receita, sustentava praticamente toda a margem bruta da empresa. A categoria de Bikes estava no centro do problema.
 
-O relatório é composto por quatro páginas: visão geral do negócio, comparativo entre canais, aprofundamento nas subcategorias e simulação do impacto financeiro da decisão comercial.
+Quatro páginas compõem o relatório: visão geral do negócio, comparativo entre canais, aprofundamento nas subcategorias e simulação do impacto financeiro da estratégia comercial.
 
 <br clear="right">
 
