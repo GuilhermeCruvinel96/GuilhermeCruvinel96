@@ -43,7 +43,27 @@ O relatório está estruturado em duas páginas: a primeira apresenta a visão e
 <p>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmJiMmQ4ZDgtMGY1Mi00OTFhLTk4OGUtNjBmYTZhOWYzZjU1IiwidCI6IjhhMzUxMjYzLWRkYmItNGFjMi1hMWZiLWIxYzJhZWY0ZTg5YiJ9">🔗 Acesse o relatório no Power BI</a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/pulse/receita-em-queda-margem-intacta-o-que-estava-por-tr%C3%A1s-cruvinel-hqwlf/">📄 Leia o artigo no LinkedIn</a> &nbsp;&nbsp;
-<a href="https://github.com/GuilhermeCruvinel96/contoso-powerbi">📁 Repositório do projeto</a>
+<a href="https://github.com/guilhermecruvinel/contoso-powerbi">📁 Repositório do projeto</a>
+</p>
+
+---
+
+### Canal de Venda como Determinante da Rentabilidade — Adventure Works (Power BI)
+
+<img src="assets/Capa_AdventureWorks.png" alt="Capa do projeto Adventure Works" width="420" align="right">
+
+Análise comparando os canais Internet e Revendedores da Adventure Works entre 2011 e 2013. A receita dobrou e o volume quintuplicou, mas o ticket médio colapsou 61% — de 821 para 319.
+
+O canal Revendedores concentrava 73% da receita, mas operava com margem percentual de 1%. O canal Internet, com apenas 27% da receita, sustentava 96% da margem bruta da empresa. A comercialização de Bikes no canal errado destruía valor sistematicamente — e a simulação quantifica esse custo.
+
+O relatório é composto por quatro páginas: visão geral do negócio, comparativo entre canais, aprofundamento nas subcategorias e simulação do impacto financeiro da decisão comercial.
+
+<br clear="right">
+
+<p>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZThkYTg1MjYtNGNlYi00MjljLWI0ZTMtMGZjY2UwMjE0MzZmIiwidCI6IjhhMzUxMjYzLWRkYmItNGFjMi1hMWZiLWIxYzJhZWY0ZTg5YiJ9">🔗 Acesse o relatório no Power BI</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/pulse/em-que-medida-o-canal-de-venda-determina-do-neg%C3%B3cio-an%C3%A1lise-cruvinel-dynnf/">📄 Leia o artigo no LinkedIn</a> &nbsp;&nbsp;
+<a href="https://github.com/GuilhermeCruvinel96/adventure-works-powerbi">📁 Repositório do projeto</a>
 </p>
 
 ---
