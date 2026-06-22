@@ -32,9 +32,9 @@
 
 <img src="assets/Capa_Contoso.png" alt="Capa do projeto Contoso" width="420" align="right">
 
-A receita da Contoso caía de forma consistente entre 2007 e 2009, mas a margem permanecia intacta. O problema não estava na operação, estava na composição do portfólio.
+A receita da Contoso caía de forma consistente entre 2007 e 2009, mas a margem percentual permanecia intacta. O problema não estava na operação, estava na composição do portfólio.
 
-A investigação identificou um cluster de categorias com alta exposição à substituição tecnológica como principal driver da contração. Sendo responsável sozinho por -1,0 Bi no período, enquanto o restante do portfólio cresceu +0,2 Bi.
+A investigação identificou um cluster de subcategorias com alta exposição à substituição tecnológica como principal driver da contração. Esse cluster, nomeado como "Tecnologias Dedicadas", foi responsável sozinho por -1,0 Bi de receita no período, enquanto o restante do portfólio cresceu +0,2 Bi.
 
 O relatório está estruturado em duas páginas: a primeira apresenta a visão executiva da contração; a segunda aprofunda a origem do problema e o risco estrutural do portfólio.
 
@@ -54,7 +54,7 @@ O relatório está estruturado em duas páginas: a primeira apresenta a visão e
 
 Os dados de vendas da Adventure Works entre 2011 e 2013 apresentavam um crescimento aparente: receita dobrada, volume quintuplicado, mas um número não fechava a conta. O ticket médio despencou 61% no período. O que sustentava esse crescimento não era valor. E sim, volume.
 
-O canal de venda era o fator determinante. Revendedores concentrava a maior parte da receita, mas operava com margem quase nula. Internet, com muito menos receita, sustentava praticamente toda a margem bruta da empresa. A categoria de Bikes estava no centro do problema.
+O canal de venda era o fator determinante. Revendedores concentrava a maior parte da receita, mas operava com margem quase nula. Internet, com muito menos receita, sustentava praticamente toda a margem bruta da empresa.
 
 Quatro páginas compõem o relatório: visão geral do negócio, comparativo entre canais, aprofundamento nas subcategorias e simulação do impacto financeiro da estratégia comercial.
 
