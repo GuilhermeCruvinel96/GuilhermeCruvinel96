@@ -32,7 +32,7 @@
 
 <img src="assets/Capa_Contoso.png" alt="Capa do projeto Contoso" width="420" align="right">
 
-Análise sobre a estrutura de geração de receita da Contoso entre 2007 e 2009. A receita caiu -821 Mi com queda YoY média de -9,5%, enquanto a margem de 56% permaneceu estável.
+Análise sobre a estrutura de geração de receita da Contoso entre 2007 e 2009. A receita caía de forma consistente ao longo do período — mas a margem permanecia intacta. O problema não estava na operação, estava na composição do portfólio.
 
 A investigação identificou um cluster de categorias com alta exposição à substituição tecnológica como principal driver da contração — responsável sozinho por -1,0 Bi no período, enquanto o restante do portfólio cresceu +0,2 Bi.
 
@@ -52,9 +52,9 @@ O relatório está estruturado em duas páginas: a primeira apresenta a visão e
 
 <img src="assets/Capa_AdventureWorks.png" alt="Capa do projeto Adventure Works" width="420" align="right">
 
-Análise comparando os canais Internet e Revendedores da Adventure Works entre 2011 e 2013. A receita dobrou e o volume quintuplicou, mas o ticket médio colapsou 61% — de 821 para 319.
+Análise comparando os canais Internet e Revendedores da Adventure Works entre 2011 e 2013. O negócio crescia em receita e volume, mas um número não fechava a conta: o ticket médio despencava. Algo sustentava esse crescimento — e não era valor.
 
-O canal Revendedores concentrava 73% da receita, mas operava com margem percentual de 1%. O canal Internet, com apenas 27% da receita, sustentava 96% da margem bruta da empresa. A comercialização de Bikes no canal errado destruía valor sistematicamente — e a simulação quantifica esse custo.
+A investigação revelou uma discrepância expressiva de margem entre os canais. Revendedores concentrava a maior parte da receita, mas operava com margem quase nula. Internet, com muito menos receita, sustentava praticamente toda a margem bruta da empresa. O canal de venda era o fator determinante — e a categoria de Bikes estava no centro do problema.
 
 O relatório é composto por quatro páginas: visão geral do negócio, comparativo entre canais, aprofundamento nas subcategorias e simulação do impacto financeiro da decisão comercial.
 
