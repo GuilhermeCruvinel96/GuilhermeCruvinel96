@@ -68,7 +68,7 @@ Quatro páginas compõem o relatório: visão geral do negócio, comparativo ent
 
 ---
 
-## Performance Logística e Satisfação do Cliente — Olist (SQL Server + Power BI)
+## Performance Logística e Satisfação do Cliente — Olist (SQL + Power BI)
 
 <img src="assets/Capa_Olist.png" align="right" width="420">
 
