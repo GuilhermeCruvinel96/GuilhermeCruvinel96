@@ -68,4 +68,23 @@ Quatro páginas compõem o relatório: visão geral do negócio, comparativo ent
 
 ---
 
+## Performance Logística e Satisfação do Cliente — Olist (SQL Server + Power BI)
+
+<img src="assets/Capa_Olist.png" align="right" width="420">
+
+Cerca de 8% dos pedidos entregues pela Olist entre 2016 e 2018 chegaram atrasados. Um número pequeno diante do volume total, mas suficiente para abrir uma diferença grande na satisfação: pedidos atrasados têm nota média de 2,3 estrelas, contra 4,3 dos pedidos entregues no prazo.
+
+O atraso se concentrava fortemente no Nordeste, com taxa próxima do dobro da observada no Sul e no Sudeste. Mas o dado mais relevante veio da relação entre o tamanho do atraso e a nota: atrasos longos não eram exceção dentro da base, apareciam com frequência próxima à dos atrasos curtos, o que aponta para um problema logístico mais estrutural do que pontual.
+
+A análise foi dividida em cinco perguntas de negócio, com duas extensões criadas ao longo do processo. Primeiro projeto do portfólio com dados reais, tratado com SQL Server e Power BI.
+
+<br clear="right">
+
+<p>
+<a href="https://www.linkedin.com/pulse/o-que-os-dados-da-olist-revelam-sobre-atraso-na-entrega-cruvinel-40w5f/">📄 Leia o artigo no LinkedIn</a> &nbsp;&nbsp;
+<a href="https://github.com/GuilhermeCruvinel96/olist-sql-powerbi">📁 Repositório do projeto</a>
+</p>
+
+---
+
 *Mais projetos em desenvolvimento...*
