@@ -43,7 +43,7 @@ O relatório está estruturado em duas páginas: a primeira apresenta a visão e
 <p>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmJiMmQ4ZDgtMGY1Mi00OTFhLTk4OGUtNjBmYTZhOWYzZjU1IiwidCI6IjhhMzUxMjYzLWRkYmItNGFjMi1hMWZiLWIxYzJhZWY0ZTg5YiJ9">🔗 Acesse o relatório no Power BI</a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/pulse/receita-em-queda-margem-intacta-o-que-estava-por-tr%C3%A1s-cruvinel-hqwlf/">📄 Leia o artigo no LinkedIn</a> &nbsp;&nbsp;
-<a href="https://github.com/guilhermecruvinel/contoso-powerbi">📁 Repositório do projeto</a>
+<a href="https://github.com/GuilhermeCruvinel96/contoso-powerbi">📁 Repositório do projeto</a>
 </p>
 
 ---
