@@ -76,7 +76,7 @@ Cerca de 8% dos pedidos entregues pela Olist entre 2016 e 2018 chegaram atrasado
 
 O atraso se concentrava fortemente no Nordeste, com taxa próxima do dobro da observada no Sul e no Sudeste. Mas o dado mais relevante veio da relação entre o tamanho do atraso e a nota: atrasos longos não eram exceção dentro da base, apareciam com frequência próxima à dos atrasos curtos, o que aponta para um problema logístico mais estrutural do que pontual.
 
-A análise foi dividida em cinco perguntas de negócio, com duas extensões criadas ao longo do processo. Primeiro projeto do portfólio com dados reais, tratado com SQL Server e Power BI.
+A análise foi dividida em cinco perguntas de negócio, com duas extensões criadas ao longo do processo.
 
 <br clear="right">
 
