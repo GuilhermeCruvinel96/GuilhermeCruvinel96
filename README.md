@@ -70,7 +70,7 @@ Quatro páginas compõem o relatório: visão geral do negócio, comparativo ent
 
 ## Performance Logística e Satisfação do Cliente — Olist (SQL + Power BI)
 
-<img src="assets/Capa_Olist.png" align="right" width="420" height="300">
+<img src="assets/Capa_Olist.png" align="right" width="420" height="400">
 
 Cerca de 8% dos pedidos entregues pela Olist entre 2016 e 2018 chegaram atrasados. Um número pequeno diante do volume total, mas suficiente para gerar uma diferença grande na satisfação: pedidos atrasados têm nota média de 2,3 estrelas, contra 4,3 dos pedidos entregues no prazo.
 
