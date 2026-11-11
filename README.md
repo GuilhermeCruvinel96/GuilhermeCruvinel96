@@ -7,7 +7,7 @@
 **Sobre mim:**
 
 - 📊 Desenvolvendo projetos de análise com Power BI, SQL e Python
-- 📍 Resido em Brasília — aberto a oportunidades remotas e presenciais em Brasília e Palmas-TO
+- 📍 Resido em Palmas-TO — aberto a oportunidades remotas e presenciais em Palmas-TO
 - 🎯 Buscando oportunidade como Analista de Dados Júnior
 
 ---
@@ -68,7 +68,7 @@ Quatro páginas compõem o relatório: visão geral do negócio, comparativo ent
 
 ---
 
-## Performance Logística e Satisfação do Cliente — Olist (SQL + Power BI)
+### Performance Logística e Satisfação do Cliente — Olist (SQL + Power BI)
 
 <img src="assets/Capa_Olist.png" align="right" width="420">
 
@@ -83,6 +83,25 @@ A análise foi dividida em cinco perguntas de negócio, buscando entender de for
 <p>
 <a href="https://www.linkedin.com/pulse/o-que-os-dados-da-olist-revelam-sobre-atraso-na-entrega-cruvinel-40w5f/">📄 Leia o artigo no LinkedIn</a> &nbsp;&nbsp;
 <a href="https://github.com/GuilhermeCruvinel96/olist-sql-powerbi">📁 Repositório do projeto</a>
+</p>
+
+---
+
+### Análise Exploratória de Churn — Bank Churn (Python)
+
+<img src="assets/Capa_BankChurn.png" alt="Capa do projeto Bank Churn" width="420" align="right">
+
+Um banco europeu fictício perdia 20,4% dos seus clientes. A análise partiu sem hipótese prévia, buscando entender se havia um padrão real por trás de quem sai ou se o churn era essencialmente aleatório.
+
+O padrão existia, mas não tinha uma causa única. Clientes inativos saíram mais em todos os recortes testados. O número de produtos contratados mostrou um ponto ótimo. Com 1 produto, o churn é de 27,7%. Com 2, cai para 7,6%. A partir de 3, passa de 80%. E a Alemanha tinha o dobro do churn de França e Espanha, um efeito de país que se mantinha em todas as faixas etárias.
+
+A investigação foi feita em Python com Pandas e está documentada na ordem real em que aconteceu, incluindo as pistas descartadas e uma distorção de saldo que quase escondeu o efeito do número de produtos.
+
+<br clear="right">
+
+<p>
+<a href="https://www.linkedin.com/pulse/an%C3%A1lise-explorat%C3%B3ria-em-python-investigando-o-perfil-de-cruvinel-pes6f/">📄 Leia o artigo no LinkedIn</a> &nbsp;&nbsp;
+<a href="https://github.com/GuilhermeCruvinel96/bank-churn-python">📁 Repositório do projeto</a>
 </p>
 
 ---
